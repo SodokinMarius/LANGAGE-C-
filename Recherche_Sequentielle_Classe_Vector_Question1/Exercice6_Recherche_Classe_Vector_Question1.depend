@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639640014 source:e:\coding\langage c++\exercice6_recherche_classe_vector_question1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1639415036 source:e:\coding\langage c++\tp_devoir_ordi_derveur\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	"Ordinateur.h"
+	"Serveur.h"
+
+1639338110 source:e:\coding\langage c++\tp_devoir_ordi_derveur\serveur.cpp
+	<iostream>
+	<vector>
+	"Serveur.h"
+
+1639337848 source:e:\coding\langage c++\tp_devoir_ordi_derveur\ordinateur.cpp
+	<iostream>
+	<vector>
+	"Ordinateur.h"
+
+1639328299 e:\coding\langage c++\tp_devoir_ordi_derveur\ordinateur.h
+
+1639337415 e:\coding\langage c++\tp_devoir_ordi_derveur\serveur.h
+	"Ordinateur.h"
+

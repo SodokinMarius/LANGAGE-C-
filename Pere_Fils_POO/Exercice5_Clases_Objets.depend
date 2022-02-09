@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1639484199 source:e:\coding\langage c++\exercice5_clases_objets\main.cpp
+	<iostream>
+	<string>
+	"Father.h"
+	"Son.h"
+
+1639479709 source:e:\coding\langage c++\exercice5_clases_objets\father.cpp
+	<iostream>
+	<string>
+	"Father.h"
+
+1639481128 e:\coding\langage c++\exercice5_clases_objets\father.h
+
+1639483758 source:e:\coding\langage c++\exercice5_clases_objets\son.cpp
+	<iostream>
+	<string>
+	"Son.h"
+
+1639484845 e:\coding\langage c++\exercice5_clases_objets\son.h
+	"Father.h"
+
+1639479709 source:e:\coding\langage c++\tp_devoir\exercice5_clases_objets\father.cpp
+	<iostream>
+	<string>
+	"Father.h"
+
+1639481128 e:\coding\langage c++\tp_devoir\exercice5_clases_objets\father.h
+
+1639483758 source:e:\coding\langage c++\tp_devoir\exercice5_clases_objets\son.cpp
+	<iostream>
+	<string>
+	"Son.h"
+
+1639777086 e:\coding\langage c++\tp_devoir\exercice5_clases_objets\son.h
+	"Father.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639486195 source:/home/gilles/Documents/compile/produitMatriciel/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

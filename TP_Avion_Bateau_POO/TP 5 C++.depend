@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1637196530 source:e:\coding\langage c++\tp 5 c++\avion.cpp
+	<iostream>
+	"Avion.h"
+
+1637196559 e:\coding\langage c++\tp 5 c++\avion.h
+	"Vehicule.h"
+
+1637196596 e:\coding\langage c++\tp 5 c++\vehicule.h
+
+1637196577 source:e:\coding\langage c++\tp 5 c++\vehicule.cpp
+	<iostream>
+	"Vehicule.h"
+
+1637196708 source:e:\coding\langage c++\tp 5 c++\main.cpp
+	<iostream>
+	"Vehicule.h"
+	"Avion.h"
+

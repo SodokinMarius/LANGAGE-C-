@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1636038634 source:e:\coding\langage c++\ppcm_pgcd\calcul.cpp
+	<iostream>
+	<cmath>
+
+1636038747 source:e:\coding\langage c++\ppcm_pgcd\main.cpp
+	<iostream>
+	<cmath>
+	"Calcul.h"
+
+1636037870 e:\coding\langage c++\ppcm_pgcd\calcul.h
+

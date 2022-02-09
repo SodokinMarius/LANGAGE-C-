@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1639228594 source:e:\coding\langage c++\exercice1_question1\algorithme.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	"Algorithme.h"
+
+1639228806 e:\coding\langage c++\exercice1_question1\algorithme.h
+
+1639228447 source:e:\coding\langage c++\exercice1_question1\main.cpp
+	<iostream>
+	<vector>
+	"Algorithme.h"
+	<algorithm>
+
+1639590902 source:e:\coding\langage c++\tp_devoir\exercice1_question1\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

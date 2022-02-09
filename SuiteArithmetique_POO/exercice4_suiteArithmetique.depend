@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1639488072 source:e:\coding\langage c++\tp_devoir\exercice4_suitearithmetique\main.cpp
+	<iostream>
+	<vector>
+	"suite_arithmetique.h"
+
+1639485866 e:\coding\langage c++\tp_devoir\exercice4_suitearithmetique\suite_arithmetique.h
+
+1639485866 source:e:\coding\langage c++\tp_devoir\exercice4_suitearithmetique\suite_arithmetique.cpp
+	<iostream>
+	"suite_arithmetique.h"
+

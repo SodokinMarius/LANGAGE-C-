@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1639319445 source:e:\coding\langage c++\produit_deux_matrice\main.cpp
+	<iostream>
+	<vector>
+
+1639642901 source:e:\coding\langage c++\tp_devoir\exercice2_produitdedeuxmatrice\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637084104 source:e:\coding\langage c++\calcul_moyenne\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
